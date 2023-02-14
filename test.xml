@@ -1,0 +1,20 @@
+
+
+<movie>
+
+    <movie1>
+        <name>spider man!!</name>
+        <title>test1</title>
+    </movie1>
+
+
+    <movie1>
+        <name>super man!!</name>
+        <title>test2</title>
+    </movie1>
+
+    <movie1>
+        <name>spider man!!</name>
+        <name>spider man!!</name>
+    </movie1>
+</movie>
